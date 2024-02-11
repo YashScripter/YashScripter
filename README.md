@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm M Yashwanth</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif">
 
 
 - 🔭 I’m currently working on [E-Commerce Shopy App](https://github.com/YashScripter/React-project-shoopy)
